@@ -21,3 +21,10 @@ while [[ $? -eq "0" ]]; do
     fi
 
 done
+
+
+myls() {
+    ls
+}
+
+myls
